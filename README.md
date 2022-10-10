@@ -4,7 +4,7 @@ The objective behind this project is to get to know in a simple way the most fam
 ### 📌Keywords:
 	Turtle:
 It is a python library provide programmers with the necessary elements to draw in the screen. Is actually built on top of ==Tkinter==, which is a more powerful, general purpose Python library for building GUIs (Graphical User Interfaces).
-2. Pandas:
+ 	Pandas:
 
 3. Read and write
 
