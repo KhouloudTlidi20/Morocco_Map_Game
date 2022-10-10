@@ -1,4 +1,5 @@
-# Morocco_Map_Game
+# 🇲🇦 ![MoroccoFlagGIF](https://user-images.githubusercontent.com/85427518/194851577-e91fbdfa-a7ad-4ed1-983b-e826fd74a039.gif)
+Morocco_Map_Game
 ## Overview:
 The objective behind this project is to get to know in a simple way the most famous Moroccan cities, the project is a sort of a game built with the help of python and some of its libraries (tkinter, pandas), so you are going to master some of python caracteristics while you are enjoying the process of creating the project. 
 The idea of the project is: you write in english a moroccan city name that you know and if it is correct you will see it located in its place (the same process until completing the 50 cities), if you want to stop the game you write "exit", a CSV file is automatically generating to see which are the cities you need to learn.
@@ -21,6 +22,7 @@ In this project we are going to use DataFrames.
 1. I picked a morocco map from the internet.
 <img src="https://www.moroccoworldnews.com/wp-content/uploads/2020/07/Facts-About-the-Map-of-Morocco-1024x683.jpg" width="300" height="300">
 2. Get cities coordinates from the image and put them in the CSV file ("list_of_morocco_cities.csv").
+
 3. I made some changes on the original image and remove the written cities on it.
 
 
