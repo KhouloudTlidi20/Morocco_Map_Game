@@ -20,4 +20,4 @@ To play the game I am giving this link https://replit.com/@Tlidi/Morocco-Map#pyp
 
 
 	tkinter
-: is
+
