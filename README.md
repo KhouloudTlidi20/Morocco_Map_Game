@@ -21,7 +21,7 @@ In this project we are going to use DataFrames.
 1. I picked a morocco map from the internet.
 <img src="https://www.moroccoworldnews.com/wp-content/uploads/2020/07/Facts-About-the-Map-of-Morocco-1024x683.jpg" width="300" height="300">
 2. Get cities coordinates from the image and put them in the CSV file ("list_of_morocco_cities.csv").  
-<br>
+
 3. I made some changes on the original image and remove the written cities on it.
 
 
