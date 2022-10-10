@@ -18,7 +18,7 @@ In this project we are going to use DataFrames.
 - Python IDE like (Atom, PyCharm, Visual studio Code, Replit (online IDE))
 
 ## 📜 Steps to build the programme:
-1. I picked a morocco map from the internet <img src="https://www.moroccoworldnews.com/wp-content/uploads/2020/07/Facts-About-the-Map-of-Morocco-1024x683.jpg" width="500" height="800">
+1. I picked a morocco map from the internet  <img src="https://www.moroccoworldnews.com/wp-content/uploads/2020/07/Facts-About-the-Map-of-Morocco-1024x683.jpg" width="300" height="300">
 ## 🖇️ Summary:
 
 turtle graphics: https://docs.python.org/3/library/turtle.html
