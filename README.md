@@ -28,3 +28,5 @@ In this project we are going to use DataFrames.
 ## 🖇️ Resources:
 - [Turtle graphics] (https://docs.python.org/3/library/turtle.html/)
 - https://mode.com/python-tutorial/libraries/pandas/
+- [This is an external link to genome.gov](https://www.genome.gov/)
+[This is an external link to genome.gov](https://www.genome.gov/)
