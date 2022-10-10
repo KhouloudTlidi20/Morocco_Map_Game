@@ -7,6 +7,7 @@ To play the game I am giving this link https://replit.com/@Tlidi/Morocco-Map#pyp
 ### 📌 Keywords:
 	Turtle:
 It is a python library provide programmers with the necessary elements to draw in the screen. It is actually built on top of Tkinter, which is a more powerful, general purpose Python library for building GUIs (Graphical User Interfaces). The turtle module contains a lot of classes like (Turtle, Screen, etc), the Turtle Screen class defines graphics windows as a playground for the drawing turtles. These classes contain some methods to make visible changes on the screen like (shape(), title(), forward()...).
+
  	Pandas:
 It is a Python library for data analysis. Pandas is built on top of two core Python libraries—matplotlib for data visualization and NumPy for mathematical operations. Pandas introduced two new types of objects for storing data that make analytical tasks easier and eliminate the need to switch tools: Series, which have a list-like structure, and DataFrames, which have a tabular structure.
 In this project we are going to use DataFrames.
@@ -17,8 +18,7 @@ In this project we are going to use DataFrames.
 - Python IDE like (Atom, PyCharm, Visual studio Code, Replit (online IDE))
 
 ## 📜 Steps to build the programme:
-1. I picked a morocco map from the internet ![The San Juan Mountains are beautiful!](https://www.moroccoworldnews.com/wp-content/uploads/2020/07/Facts-About-the-Map-of-Morocco-1024x683.jpg "hh")
-
+1. I picked a morocco map from the internet <img src="https://www.moroccoworldnews.com/wp-content/uploads/2020/07/Facts-About-the-Map-of-Morocco-1024x683.jpg" width="200" height="100">
 ## 🖇️ Summary:
 
 turtle graphics: https://docs.python.org/3/library/turtle.html
