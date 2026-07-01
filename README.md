@@ -22,7 +22,7 @@ In this project we are going to use DataFrames.
 <img src="https://www.moroccoworldnews.com/wp-content/uploads/2020/07/Facts-About-the-Map-of-Morocco-1024x683.jpg" width="300" height="300">
 2. Get cities coordinates from the image and put them in the CSV file ("list_of_morocco_cities.csv").  
 <br>
-3. I made some changes on the original image and remove the written cities on it.
+3. I made some changes on the original image and remove the written cities on it.<br>
 4. Write the programme (I am using PyCharm).
 
 
